@@ -1,4 +1,4 @@
-# i2ihw14
+# Bash Script Calculator
 ## Introduction to Bash Script Calculator
 
 This project is a simple calculator implemented using a Bash script. The calculator allows users to perform basic arithmetic operations, including addition, subtraction, multiplication, division, modulo, and factorial calculation.
